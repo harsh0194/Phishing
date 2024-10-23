@@ -1,4 +1,4 @@
-🛡️ Mastercard Cybersecurity Job Simulation
+🛡️ Phishing Job Simulation
 
 
 📝 Overview
