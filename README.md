@@ -1,10 +1,23 @@
-# Phishing
-Mastercard Cybersecurity Job Simulation
+🛡️ Mastercard Cybersecurity Job Simulation
 
-Mastercard Cybersecurity virtual experience program on Forage - August 2024
 
-•	Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+📝 Overview
 
-•	Helped identify and report security threats such as phishing 
+This project documents my experience as an analyst on Mastercard’s Security Awareness Team during a job simulation. I focused on identifying security threats and improving internal security training processes.
 
-•	Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+🌟 Key Responsibilities
+
+🕵️ Identified and reported security threats such as phishing attacks.
+
+📊 Analyzed business areas requiring stronger security measures.
+
+🎯 Implemented targeted security training courses and procedures to enhance the company’s security posture.
+
+
+🔧 Skills & Tools
+
+Threat Detection & Analysis 🔍
+
+Phishing Awareness ✉️
+
+Security Awareness Training 🛠️
